@@ -1084,8 +1084,7 @@ ol,
 p,
 pre,
 td,
-th,
-ul {
+th {
     display: block;
     font-size: 1em;
     line-height: 1.6em;
@@ -2276,19 +2275,48 @@ code.hljs span.hljs-tag {
     display: inline-block;
     font-family: Raleway, sans-serif;
     font-size: .75em;
-    letter-spacing: .124em;
+    letter-spacing: .132em;
     margin: 0 0 0 2rem;
     padding: 0;
-    text-transform: uppercase
+    text-transform: uppercase;
+    vertical-align: middle;
 }
 
 #menu ul a {
     color: #aaa;
-    text-decoration: none
+    text-decoration: none;
+    box-sizing: border-box;
+    font-size: .99em;
+    text-align: right;
 }
 
 #menu ul a:hover {
     color: #000
+}
+
+.alignable, .pull-left, .pull-right {
+    display: inline-block;
+}
+
+.back-outer {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    //border: 2px solid #aaa;
+    border-radius: 30px;
+    background-color: #aaa;
+    padding: 0;
+}
+.back-inner {
+    height: 24px;
+    width: 24px;
+    margin: 3px 3px;
+    border: 2px solid #fff;
+    border-radius: 24px;
+    background: #fff;
+}
+.back-inner:hover {
+    background: #555;
 }
 
 .video_container {
