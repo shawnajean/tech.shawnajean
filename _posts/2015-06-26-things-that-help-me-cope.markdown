@@ -10,8 +10,13 @@ tags:
 excerpt: I have anxiety and depression. Some days I conquer the world and help the people around me, and others I’m lucky if I changed out of my robe or ate something more than an avocado.
 ---
 
+{% include image.html
+            img="http://65.media.tumblr.com/589457582f0367d310cbd690275c9de9/tumblr_non4dxUN011qmjp01o1_1280.jpg"
+            title="Keep Your Fire Burning Bright"
+            caption="“Keep Your Fire Burning Bright” 2015 © kerbyrosanes"
+            url="http://kerbyrosanes.com/" %}
 
-<figure>[![](http://65.media.tumblr.com/589457582f0367d310cbd690275c9de9/tumblr_non4dxUN011qmjp01o1_1280.jpg)](http://kerbyrosanes.com/)<figcaption class="wp-caption-text">[“Keep Your Fire Burning Bright” 2015 © kerbyrosanes](http://kerbyrosanes.com/)</figcaption></figure>I have anxiety and depression. Some days I conquer the world and help the people around me, and others I’m lucky if I changed out of my robe or ate something more than an avocado.
+I have anxiety and depression. Some days I conquer the world and help the people around me, and others I’m lucky if I changed out of my robe or ate something more than an avocado.
 
 I’m on meds. I’m in therapy. I read blogs. I read books. I take online quizzes. And focus on my happiness. I read about the latest ‘breakthroughs’. And I keep going around in circles.
 
