@@ -6,6 +6,7 @@ tags:
 - cah
 - just-a-joke
 - satire
+excerpt: That awkward moment when you wonder **not just “Who did I just offend?” but “Who did I just encourage?”** ought to give all satirists pause. And Cards Against Humanity, as a do-it-yourself kit for amateur satirists that also bills itself as an icebreaker party game, is a wall-to-wall extravaganza of such moments.
 ---
 
 

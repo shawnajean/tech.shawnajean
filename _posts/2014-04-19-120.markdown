@@ -6,6 +6,7 @@ tags:
 - start-ups
 - support
 - technology
+excerpt: Yet the myths we hold so dear — the noble engineer, sleeping under *his* desk to get the product out on time; the company that cares for its employees’ every need — exclude and marginalize an entire class of people whose contributions to these startups make their success possible.
 ---
 
 

@@ -6,6 +6,7 @@ tags:
 - feminism
 - patriarchy
 - the-personal-is-political
+excerpt: This comfort with group assessment of femininity in turn reminds me of the ease with which women’s choices regarding their bodies, futures, health, sex, and family life are up for public evaluation. Women are labeled as good or bad, as moral or immoral, by major religions and “closely held corporations,” whose rights to allow those estimations to dictate their corporate obligations are upheld over the rights of the women themselves by high courts.
 ---
 
 

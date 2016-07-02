@@ -8,6 +8,7 @@ tags:
 - people
 - service
 - service-workers
+excerpt: I’ve spent the better part of the day traveling back from an amazing trip to Barbados with my coworkers. And apparently, what is rare about my trip is that at no point on my long and harrowing experience did I feel the need to yell at the people working around me.
 ---
 
 

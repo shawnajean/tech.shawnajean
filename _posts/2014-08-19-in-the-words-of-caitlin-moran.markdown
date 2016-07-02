@@ -7,6 +7,7 @@ tags:
 - feminism
 - humor
 - power
+excerpt: Quoted from her recent interview in Bust Magazine.
 ---
 
 

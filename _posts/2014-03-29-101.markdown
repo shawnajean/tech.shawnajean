@@ -4,6 +4,7 @@ title: Invisible tech privilege
 date: '2014-03-29 10:32:03'
 tags:
 - technology
+excerpt: If the system is *already* unfair in many little ways, many of which are effectively impossible to correct, the best we can do is attempt to balance the scales in other ways.
 ---
 
 

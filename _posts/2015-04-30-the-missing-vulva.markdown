@@ -7,6 +7,7 @@ tags:
 - feminism
 - invisible
 - sexuality
+excerpt: It hit me on a fairly ordinary Wednesday afternoon, when on a whim I decided to visit the Greek and Roman galleries of New York’s Metropolitan Museum of Art … that none of the forms showed the reality of female genitals.
 ---
 
 

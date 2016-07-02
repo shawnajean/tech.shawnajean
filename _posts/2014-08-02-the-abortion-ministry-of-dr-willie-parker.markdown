@@ -5,6 +5,7 @@ date: '2014-08-02 14:40:00'
 tags:
 - abortion
 - reproductive-rights
+excerpt: The last thing I want to say is a lot of times when you come, there might be protesters. There are people that are going to be telling you that what you’re doing is wrong. It’s immoral. That you can’t be a Christian. That you’re going to hell. And a lot of women that bothers. Because there are women here who also have a religious belief, who also feel like they’re Christians.
 ---
 
 

@@ -6,6 +6,7 @@ date: '2014-06-15 18:54:31'
 tags:
 - intersectionality
 - oppression
+excerpt: The way people speak and write is based on a lot of factors. Geography, for one. The various communities you belong to are also a big influence. We’re all fluent in more than one english, for example the language of our peer group and the language of our parents’ generation.
 ---
 
 

@@ -6,6 +6,7 @@ tags:
 - fail-better
 - happiness
 - support
+excerpt: Most “superheroes” are nothing of the sort. They’re weird, neurotic creatures who do big things DESPITE lots of self-defeating habits and self-talk.
 ---
 
 

@@ -6,6 +6,7 @@ tags:
 - gender-gap
 - technology
 - unicorns
+excerpt: For a lot of companies gender only becomes a priority topic when something has gone wrong. If you believe in equality for all and try to treat everyone equally it can be difficult to understand the strong impact of things like microaggressions and slighting language.
 ---
 
 
