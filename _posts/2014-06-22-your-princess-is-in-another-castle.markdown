@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Your Princess Is in Another Castle: Misogyny, Entitlement, and Nerds'
+title: 'Your Princess Is In Another Castle: Misogyny, Entitlement, and Nerds'
 date: '2014-06-22 11:44:46'
 tags:
 - feminism

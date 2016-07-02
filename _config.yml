@@ -11,10 +11,11 @@ email: hello@shawnajroberts.com
 description: laughter, tea, & knitting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://me.shawnajean.tech" # the base hostname & protocol for your site
-twitter_username: shawnajeanr
-github_username:  shawnajean
 paginate: 5
-excerpt_separator: <!--more-->
+paginate_path: /:num
+timezone: America/New_York
+permalink: /:slug
+
 
 # Build settings
 markdown: kramdown

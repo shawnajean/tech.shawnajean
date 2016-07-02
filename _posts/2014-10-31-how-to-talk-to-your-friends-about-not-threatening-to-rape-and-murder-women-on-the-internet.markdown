@@ -6,7 +6,7 @@ date: '2014-10-31 07:38:00'
 tags:
 - gamergate
 - garbage-people
-excerpt: In case you need a head start, I’ve written up some suggested scripts for talking to your buddies: Ted, are you as good at respecting other people’s personal space as you are at baking? This angel food cake is phenomenal.
+excerpt: In case you need a head start, I’ve written up some suggested scripts for talking to your buddies - Ted, are you as good at respecting other people’s personal space as you are at baking? This angel food cake is phenomenal.
 ---
 
 
