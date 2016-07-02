@@ -3,15 +3,14 @@ layout: default
 ---
 <article class="post row" role="main">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta">{% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  <header>
+    <h1>{{ page.title }}</h1>
     {% if page.tags %}
-      <p class="f-post-tags"><i class="fa fa-tag"></i> {{tags}}</p>
+      <p class="f-post-tags"><i class="fa fa-tag"></i> {{ page.tags | array_to_sentence_string }}</p>
     {% endif %}
   </header>
 
-  <section class="post-content" itemprop="articleBody">
+  <section>
     {{ content }}
   </section>
 

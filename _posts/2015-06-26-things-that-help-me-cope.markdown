@@ -7,6 +7,7 @@ tags:
 - art
 - coping
 - depression
+excerpt: I have anxiety and depression. Some days I conquer the world and help the people around me, and others I’m lucky if I changed out of my robe or ate something more than an avocado.
 ---
 
 
