@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fake Geek Guys: A Message to Men About Sexual Harassment
+title: Fake Geek Guys&#58; A Message to Men About Sexual Harassment
 date: '2014-06-20 12:01:29'
 tags:
 - comics

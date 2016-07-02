@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working for a Unicorn: A Gender Aware Office
+title: Working for a Unicorn&#58; A Gender Aware Office
 date: '2014-04-14 12:05:12'
 tags:
 - gender-gap

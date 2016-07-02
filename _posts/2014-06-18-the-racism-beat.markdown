@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Racism Beat: What it’s like to write about hate over and over and over
+title: The Racism Beat&#58; What it’s like to write about hate over and over and over
 date: '2014-06-18 22:30:35'
 tags:
 - feminism
