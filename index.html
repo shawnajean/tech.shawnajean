@@ -2,6 +2,22 @@
 layout: default
 ---
 
+<section class="row" role="main">
+	{% for post in paginator.posts %}
+	<article class="post">
+		<header class="post-header">
+			<h3 class="post-title"><a href="{{post.url}}">{{post.title}}</a></h3>
+			{% if post.author %}
+			<p>Post by {{post.author}}</p>
+			{% endif %}
+		</header>
+		<section class="post-excerpt">
+			<p>"{{ post.excerpt | strip_html }}"&hellip;</p>
+		</section>
+	</article>
+	{% endfor %}
+</section>
+
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
@@ -17,7 +33,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
