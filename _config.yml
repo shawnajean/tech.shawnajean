@@ -16,6 +16,33 @@ paginate_path: /:num
 timezone: America/New_York
 permalink: /:slug
 
+site_heading: >
+    me<span class="faded">.shawna jean</span>
+
 
 # Build settings
 markdown: kramdown
+
+gems:
+    - jekyll-paginate
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+# Scopes
+defaults:
+    -
+        scope:
+            path:   ""
+            type:   "pages"
+        values:
+            layout: "page"
+    -
+        scope:
+            path:   ""
+            type:   "posts"
+        values:
+            layout: "post"
+
+exclude: [vendor] # For travis ci

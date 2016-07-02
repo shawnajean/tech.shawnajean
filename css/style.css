@@ -2374,3 +2374,11 @@ code.hljs span.hljs-tag {
         margin-top: $spacing-unit / 3;
     }
 }
+
+h1 a {
+    color: #7780DB;
+}
+
+h1 a span.faded {
+    color: #A8A8A8;
+}
