@@ -1,12 +1,7 @@
 <nav id="menu">
   <ul class="nav">
-    {% for my_page in site.pages %}
-      {% if my_page.title == page.url %}
-        <li class="nav-{{my_page.slug}} nav-current"><a href="{{ my_page.url | prepend: site.baseurl }}">{{my_page.title}}</a></li>
-      {% elsif my_page.title %}
-        <li class="nav-{{my_page.slug}}"><a href="{{ my_page.url | prepend: site.baseurl }}">{{my_page.title}}</a></li>
-      {% endif %}
-    {% endfor %}
+    <li><a href="http://shawnajean.tech">Home</a></li>
+    <li><a href="http://me.shawnajean.tech">Me</a></li>
   </ul>
 </nav>
 
