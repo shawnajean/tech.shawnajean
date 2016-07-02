@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In the Words of Caitlin Moran:'
+title: In the Words of Caitlin Moran&#58;
 date: '2014-08-19 13:07:01'
 tags:
 - death-star

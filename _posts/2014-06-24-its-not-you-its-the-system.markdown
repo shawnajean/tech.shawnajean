@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It’s Not You, It’s The System: Design and Technology for Social Good
+title: It’s Not You, It’s The System&#58; Design and Technology for Social Good
 date: '2014-06-24 10:53:06'
 tags:
 - intersectionality
