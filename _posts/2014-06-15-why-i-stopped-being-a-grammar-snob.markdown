@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 'Why I Stopped Being A Grammar Snob: or How I Learned to Stop Worrying and
-  Love the englishes'
+title: Why I Stopped Being A Grammar Snob: or How I Learned to Stop Worrying and Love the englishes
 date: '2014-06-15 18:54:31'
 tags:
 - intersectionality
