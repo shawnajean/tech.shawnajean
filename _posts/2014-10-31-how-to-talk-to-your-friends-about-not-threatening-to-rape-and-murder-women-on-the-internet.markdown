@@ -1,7 +1,6 @@
 ---
 layout: post
-title: How to Talk to Your Friends About Not Threatening to Rape and Murder Women
-  on the Internet
+title: How to Talk to Your Friends About Not Threatening to Rape and Murder Women on the Internet
 date: '2014-10-31 07:38:00'
 tags:
 - gamergate
