@@ -1,0 +1,12 @@
+h1 {
+  color: #810000;
+}
+
+h1 a,
+body>section article h3 a {
+  color: #D32020;
+}
+
+a:hover {
+  color: #333333;
+}
