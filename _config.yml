@@ -17,6 +17,9 @@ paginate_path: /:num
 timezone: America/New_York
 permalink: /:slug
 
+author:
+    twitter: shawnajeanr
+
 site_heading: >
     tech<span class="faded">.shawna jean</span>
 
