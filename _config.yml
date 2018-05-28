@@ -10,8 +10,8 @@ title: tech.shawna jean
 email: hello@shawnajroberts.com
 description: yelling at the void
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tech.shawnajean.tech" # the base hostname & protocol for your site
-home: "http://shawnajean.tech"
+url: "https://tech.shawnajean.tech" # the base hostname & protocol for your site
+home: "https://shawnajean.tech"
 paginate: 5
 paginate_path: /:num
 timezone: America/New_York
